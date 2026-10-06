@@ -4,7 +4,7 @@ import Right from './Right'
 
 const Page1content = () => {
   return (
-    <div className='flex h-screen w-full gap-[34px]'>
+    <div className='flex h-screen w-full gap-8 pt-4 '>
         <Left />
         <Right />
     </div>
